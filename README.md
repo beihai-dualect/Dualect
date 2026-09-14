@@ -10,6 +10,12 @@ Dualect AI 文献翻译器是一款面向 Windows 的 Flutter 桌面应用，将
 - Markdown/LaTeX 公式、表格、图片和笔记
 - 本地英汉词典及期刊分区查询
 ## 使用教程
+软件下载：
+右侧点击release
+<img width="329" height="135" alt="d799c540-11f2-472f-9d95-cbdcf11a91bc" src="https://github.com/user-attachments/assets/bb6471e9-f660-43cc-aecf-6f438ee834a1" />
+找到zip压缩包，解压后无需安装，即可运行Dualect.exe启动程序
+<img width="368" height="115" alt="image" src="https://github.com/user-attachments/assets/9a27b41a-c346-4d9e-96b2-8ba0ece56675" />
+
 1.在mineru官网注册账号并登录，申请api key并将其复制到软件设置的对应位置：
 <img width="917" height="496" alt="image" src="https://github.com/user-attachments/assets/10998d92-144d-4916-bebe-71a89638f59b" />
 这里注意申请的API有效期为90天，到期后需要再次申请，同时每日的解析文件数也有限制。
